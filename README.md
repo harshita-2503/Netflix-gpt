@@ -8,10 +8,14 @@
 - sign up form
 - Form Validation
 - useRef Hook
--Firebase setup
--Deploying our app to production
--Create SignUp User account in firebase
-
+- Firebase setup
+- Deploying our app to production
+- Create SignUp User account in firebase
+- Implement Sign in user api
+- Created our redux store with userSlice 
+- Implemented Sign Out
+- Update Profile api
+- Fetch movie from tmdb
 
 
 # Features
